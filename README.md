@@ -1,2 +1,2 @@
-# processing-excercises
+# processing-exercises
 fun with Processing
